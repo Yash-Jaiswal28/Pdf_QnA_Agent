@@ -1,0 +1,8 @@
+langchain 
+langgraph 
+cassio
+langchain_community 
+tiktoken 
+langchain-groq  
+langchain_huggingface
+wikipedia
